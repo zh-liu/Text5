@@ -1,0 +1,5 @@
+<resources>
+    <style name="Button.Logout" parent="Button.Larger">
+        <item name="android:background">@drawable/btn_logout_selector</item>
+    </style>
+</resources>
